@@ -26,6 +26,7 @@
             }
         }
         Console.WriteLine("İşlem Tamamlandı");
+        Console.ReadKey();
 
     }
 }
